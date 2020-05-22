@@ -29,3 +29,4 @@ class Artist
   end
   
 end
+
